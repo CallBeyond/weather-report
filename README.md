@@ -5,7 +5,7 @@
 Our assignment for Week Six is to create a five day weather forecast using Server-Sided API's.
 
 ## Link To Website
-[Click here to be re-directed!](https://callbeyond.github.io/WorkDayScheduler/)
+[Click here to be re-directed!](https://callbeyond.github.io/weather-report/)
 
 
 ## Usage
@@ -13,7 +13,9 @@ Use the search bar to look up any city, even after refreshing and returning back
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./images/mainpage.png)
+![App Screenshot](./images/forecastexample.png)
+![App Screenshot](./images/searchhistory.png)
 
 ## Credits
 
